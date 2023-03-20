@@ -1,0 +1,7 @@
+{
+  "name": "ssosalesforce",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
